@@ -3,7 +3,7 @@ A project for CSCE 320 - Principles of Data Science
 
 Authors: Clay Juneau, Joshua Jung, Oliver Kao, and Jacob Brown
 
-# Directions for walking through the notebook
+### Directions for walking through the notebook
 
 Make sure the raw data (data.csv and all_alpha_17.xlsx) is in the same folder as the notebook.
 
