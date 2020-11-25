@@ -17,3 +17,4 @@ These are the required libraries needed to run the notebook:
 * sklearn
 * ipywidgets
 * matplotlib
+* yellowbrick
