@@ -18,3 +18,6 @@ These are the required libraries needed to run the notebook:
 * ipywidgets
 * matplotlib
 * yellowbrick
+
+
+Note: The interactive interface at the bottom of the notebook does not work within the GitHub Jupyter Notebook viewer.
